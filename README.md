@@ -78,12 +78,12 @@ This script is ideal for population genetics and genomic studies where:
 ### Diagnostic SNPs
 
 - A list of SNPs identified as most informative for classification:
-  - `rf_diagn.snps_2.txt`
-  - `rf_diagn.snps_2.bed`
+  - `rf_diagn.snps.txt`
+  - `rf_diagn.snps.bed`
 
 ### Trained Random Forest Model
 
-- Saved as `Bdorsalis_AfricaAsia_2SNPs_rfeModel.rfe`.
+- Saved as `***.rfe`.
 
 ### Performance Metrics
 
